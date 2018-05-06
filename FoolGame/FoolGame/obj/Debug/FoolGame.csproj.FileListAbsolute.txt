@@ -1,0 +1,12 @@
+C:\Users\Supto\Documents\File\C#\FoolGame\FoolGame\bin\Debug\FoolGame.exe.config
+C:\Users\Supto\Documents\File\C#\FoolGame\FoolGame\bin\Debug\FoolGame.exe
+C:\Users\Supto\Documents\File\C#\FoolGame\FoolGame\bin\Debug\FoolGame.pdb
+C:\Users\Supto\Documents\File\C#\FoolGame\FoolGame\obj\Debug\FoolGame.csprojResolveAssemblyReference.cache
+C:\Users\Supto\Documents\File\C#\FoolGame\FoolGame\obj\Debug\FoolGame.Form2.resources
+C:\Users\Supto\Documents\File\C#\FoolGame\FoolGame\obj\Debug\FoolGame.MainForm.resources
+C:\Users\Supto\Documents\File\C#\FoolGame\FoolGame\obj\Debug\FoolGame.Properties.Resources.resources
+C:\Users\Supto\Documents\File\C#\FoolGame\FoolGame\obj\Debug\FoolGame.csproj.GenerateResource.Cache
+C:\Users\Supto\Documents\File\C#\FoolGame\FoolGame\obj\Debug\FoolGame.csproj.CoreCompileInputs.cache
+C:\Users\Supto\Documents\File\C#\FoolGame\FoolGame\obj\Debug\FoolGame.exe
+C:\Users\Supto\Documents\File\C#\FoolGame\FoolGame\obj\Debug\FoolGame.pdb
+C:\Users\Supto\Documents\File\C#\FoolGame\FoolGame\obj\Debug\FoolGame.Form3.resources
